@@ -20,7 +20,7 @@
 
 **内核下载链接：** <https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha/mihomo-darwin-arm64-{版本号}.gz>
 
-**基础版本官改内核链接：** <https://fb.home.zcore.top:777/api/public/dl/HfFceU4m/subscriber/nikki/mihomo-darwin-arm64-vernesong>
+**基础版本官改内核链接：** <https://abcxxx.com/mihomo-darwin-arm64-vernesong>
 
 **`Mihomo Party` 内核路径：** /Applications/Mihomo\ Party.app/Contents/Resources/sidecar/mihomo-alpha
 
