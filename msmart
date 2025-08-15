@@ -5,7 +5,7 @@ MIHOMO_PATH="/Applications/Mihomo Party.app/Contents/Resources/sidecar/mihomo-al
 VERSION_URL="https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha/version.txt"
 DOWNLOAD_URL_TEMPLATE="https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha/mihomo-darwin-arm64-{VERSION}.gz"
 TMP_KERNEL_PATH="/tmp/mihomo-darwin-arm64-vernesong"
-BASE_KERNEL_URL="https://fb.zcore.top:777/api/public/dl/HfFceU4m/subscriber/nikki/mihomo-darwin-arm64-vernesong"
+BASE_KERNEL_URL="https://abcxxx.com/mihomo-darwin-arm64-vernesong"
 
 # --- 辅助函数 ---
 
